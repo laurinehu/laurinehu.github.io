@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/others/my-first-post/</loc>
+    <lastmod>2019-10-28T22:53:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2019-10-28T22:53:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/others/</loc>
+    <lastmod>2019-10-28T22:53:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publications/argmining2019/</loc>
+    <lastmod>2018-02-10T11:26:27+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/argumentation/</loc>
+    <lastmod>2018-02-10T11:26:27+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/discourse/</loc>
+    <lastmod>2018-02-10T11:26:27+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/publications/</loc>
+    <lastmod>2018-02-10T11:26:27+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2018-02-10T11:26:27+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/enseignements/</loc>
+  </url>
+  
+</urlset>
