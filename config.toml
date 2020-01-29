@@ -1,0 +1,42 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Laurine Huber"
+theme = "ananke"
+
+[params]
+  body_classes = "avenir bg-near-white"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+
+[[menu.main]]
+      identifier = "enseignements"
+      name = "Teaching"
+      pre = "<i class='fa fa-heart'></i>"
+      url = "/enseignements/"
+      weight = -100
+
+[[menu.main]]
+        identifier = "others"
+        name = "Other Activities"
+        pre = "<i class='fa fa-heart'></i>"
+        url = "/others/"
+        weight = -95
+
+[[menu.main]]
+  identifier = "publis"
+  name = "Publications"
+  pre = "<i class='fa fa-heart'></i>"
+  url = "/publications/"
+  weight = -105
