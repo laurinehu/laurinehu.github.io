@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://laurinehu.github.io/others/</loc>
+    <lastmod>2019-10-28T22:53:43+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://laurinehu.github.io/others/my-first-post/</loc>
     <lastmod>2019-10-28T22:53:43+01:00</lastmod>
   </url>
@@ -13,33 +18,38 @@
   </url>
   
   <url>
-    <loc>https://laurinehu.github.io/others/</loc>
-    <lastmod>2019-10-28T22:53:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://laurinehu.github.io/publications/argmining2019/</loc>
-    <lastmod>2018-02-10T11:26:27+11:00</lastmod>
+    <loc>https://laurinehu.github.io/publications/sfc2019/</loc>
+    <lastmod>2019-09-03T11:26:27+11:00</lastmod>
   </url>
   
   <url>
     <loc>https://laurinehu.github.io/tags/argumentation/</loc>
-    <lastmod>2018-02-10T11:26:27+11:00</lastmod>
+    <lastmod>2019-09-03T11:26:27+11:00</lastmod>
   </url>
   
   <url>
     <loc>https://laurinehu.github.io/tags/discourse/</loc>
-    <lastmod>2018-02-10T11:26:27+11:00</lastmod>
+    <lastmod>2019-09-03T11:26:27+11:00</lastmod>
   </url>
   
   <url>
     <loc>https://laurinehu.github.io/publications/</loc>
-    <lastmod>2018-02-10T11:26:27+11:00</lastmod>
+    <lastmod>2019-09-03T11:26:27+11:00</lastmod>
   </url>
   
   <url>
     <loc>https://laurinehu.github.io/tags/</loc>
-    <lastmod>2018-02-10T11:26:27+11:00</lastmod>
+    <lastmod>2019-09-03T11:26:27+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurinehu.github.io/publications/argmining2019/</loc>
+    <lastmod>2019-08-02T11:26:27+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurinehu.github.io/publications/cla2020/</loc>
+    <lastmod>2019-08-02T11:26:27+11:00</lastmod>
   </url>
   
   <url>

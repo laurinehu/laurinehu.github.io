@@ -12,21 +12,40 @@
     
     
     <item>
-      <title>I&#39;m happy to be part of RECITAL organization, colocated with TALN-JEP 2020 @ Nancy</title>
+      <title>I&#39;m happy to be Co-Chair of RECITAL 2020 !</title>
       <link>https://laurinehu.github.io/others/my-first-post/</link>
       <pubDate>Mon, 28 Oct 2019 22:53:43 +0100</pubDate>
       
       <guid>https://laurinehu.github.io/others/my-first-post/</guid>
-      <description>Description de l&amp;rsquo;event</description>
+      <description>I&amp;rsquo;m happy to be part of the organizing comitee of RECITAL, co-located (virtually) with JEP and TALN 2020. The conference JEP-TALN-RECITAL 2020 will be held online from 8 to 19 June.
+https://jep-taln2020.loria.fr/</description>
+    </item>
+    
+    <item>
+      <title>Alignement de Structures Argumentatives et Discursives par Fouille de Graphes et de Redescriptions</title>
+      <link>https://laurinehu.github.io/publications/sfc2019/</link>
+      <pubDate>Tue, 03 Sep 2019 11:26:27 +1100</pubDate>
+      
+      <guid>https://laurinehu.github.io/publications/sfc2019/</guid>
+      <description>Dans cet article, nous étudions la similarité entre structures argumentatives et discursives en alignant des sous-arbres dans un corpus annoté en RST et en structure argumentative. Contrairement aux travaux précédents, nous nenous intéressons pas uniquement à un alignement relation à relation, mais à unalignement de sous-structures. À l’aide de méthodes de fouille de données, nous montrons que des similitudes existent entre l’argumentation et le discours. L’annotation multiple du corpus permet également de proposer un alignement entreles structures.</description>
     </item>
     
     <item>
       <title>Aligning Discourse and Argumentation Structures using Subtrees and Redescription Mining</title>
       <link>https://laurinehu.github.io/publications/argmining2019/</link>
-      <pubDate>Sat, 10 Feb 2018 11:26:27 +1100</pubDate>
+      <pubDate>Fri, 02 Aug 2019 11:26:27 +1100</pubDate>
       
       <guid>https://laurinehu.github.io/publications/argmining2019/</guid>
       <description>In this paper, we investigate similarities between discourse and argumentation structures by aligning subtrees in a corpus containing both annotations. Contrary to previous works, we focus on comparing sub-structures and not only relation matches. Using data mining techniques , we show that discourse and argumen-tation most often align well, and the double annotation allows to derive a mapping between structures. Moreover, this approach enables the study of similarities between discourse structures and differences in their expressive power.</description>
+    </item>
+    
+    <item>
+      <title>AOC-poset of discourse and argumentation: what can we learn on their dependencies?</title>
+      <link>https://laurinehu.github.io/publications/cla2020/</link>
+      <pubDate>Fri, 02 Aug 2019 11:26:27 +1100</pubDate>
+      
+      <guid>https://laurinehu.github.io/publications/cla2020/</guid>
+      <description>We aim at finding and understanding dependencies between linguistic structures which differ in terms of constraints and expressive power. It has been shown that studying dependencies between the argu- mentation structure (ARG) and the Rhetorical Structure Theory (RST) is non-trivial and requires a fine methodology. In this paper, we propose to take advantage of the AOC-Poset structure to understand how the subgraphs alignements occur in a small corpus annotated in ARG and RST.</description>
     </item>
     
     <item>
@@ -36,7 +55,9 @@
       
       <guid>https://laurinehu.github.io/contact/</guid>
       <description>👩‍💻 laurine [dot] huber [at] loria [dot] fr
-📭 Bureau B150 Campus Scientifique, 615 Rue du Jardin-Botanique 54506 Vandœuvre-lès-Nancy</description>
+📭 Bureau B150
+Campus Scientifique, 615 Rue du Jardin-Botanique
+54506 Vandœuvre-lès-Nancy</description>
     </item>
     
   </channel>
