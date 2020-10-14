@@ -6,10 +6,64 @@
     <description>Recent content in Tags on Laurine Huber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2019 11:26:27 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 11:26:27 +1100</lastBuildDate>
     
 	<atom:link href="https://laurinehu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>discourse</title>
+      <link>https://laurinehu.github.io/tags/discourse/</link>
+      <pubDate>Fri, 02 Oct 2020 11:26:27 +1100</pubDate>
+      
+      <guid>https://laurinehu.github.io/tags/discourse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>discourse relations</title>
+      <link>https://laurinehu.github.io/tags/discourse-relations/</link>
+      <pubDate>Fri, 02 Oct 2020 11:26:27 +1100</pubDate>
+      
+      <guid>https://laurinehu.github.io/tags/discourse-relations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lstm</title>
+      <link>https://laurinehu.github.io/tags/lstm/</link>
+      <pubDate>Fri, 02 Oct 2020 11:26:27 +1100</pubDate>
+      
+      <guid>https://laurinehu.github.io/tags/lstm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mining</title>
+      <link>https://laurinehu.github.io/tags/mining/</link>
+      <pubDate>Fri, 02 Oct 2020 11:26:27 +1100</pubDate>
+      
+      <guid>https://laurinehu.github.io/tags/mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>process</title>
+      <link>https://laurinehu.github.io/tags/process/</link>
+      <pubDate>Fri, 02 Oct 2020 11:26:27 +1100</pubDate>
+      
+      <guid>https://laurinehu.github.io/tags/process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentence embeddings</title>
+      <link>https://laurinehu.github.io/tags/sentence-embeddings/</link>
+      <pubDate>Fri, 02 Oct 2020 11:26:27 +1100</pubDate>
+      
+      <guid>https://laurinehu.github.io/tags/sentence-embeddings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>argumentation</title>
@@ -17,15 +71,6 @@
       <pubDate>Tue, 03 Sep 2019 11:26:27 +1100</pubDate>
       
       <guid>https://laurinehu.github.io/tags/argumentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>discourse</title>
-      <link>https://laurinehu.github.io/tags/discourse/</link>
-      <pubDate>Tue, 03 Sep 2019 11:26:27 +1100</pubDate>
-      
-      <guid>https://laurinehu.github.io/tags/discourse/</guid>
       <description></description>
     </item>
     

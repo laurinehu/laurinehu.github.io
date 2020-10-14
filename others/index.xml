@@ -6,19 +6,39 @@
     <description>Recent content in Activities on Laurine Huber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Oct 2019 22:53:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2020 22:53:43 +0100</lastBuildDate>
     
 	<atom:link href="https://laurinehu.github.io/others/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>I&#39;m happy to be Co-Chair of RECITAL 2020 !</title>
-      <link>https://laurinehu.github.io/others/my-first-post/</link>
+      <title>MALOTEC Seminars</title>
+      <link>https://laurinehu.github.io/others/malotec/</link>
+      <pubDate>Thu, 08 Oct 2020 22:53:43 +0100</pubDate>
+      
+      <guid>https://laurinehu.github.io/others/malotec/</guid>
+      <description>I was happy to present several works in the context of our regular team meetings.
+https://malotec.loria.fr/</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m Co-Chair of RECITAL 2020 !</title>
+      <link>https://laurinehu.github.io/others/recital/</link>
       <pubDate>Mon, 28 Oct 2019 22:53:43 +0100</pubDate>
       
-      <guid>https://laurinehu.github.io/others/my-first-post/</guid>
+      <guid>https://laurinehu.github.io/others/recital/</guid>
       <description>I&amp;rsquo;m happy to be part of the organizing comitee of RECITAL, co-located (virtually) with JEP and TALN 2020. The conference JEP-TALN-RECITAL 2020 will be held online from 8 to 19 June.
 https://jep-taln2020.loria.fr/</description>
+    </item>
+    
+    <item>
+      <title>PhD student day of the NLPKD department</title>
+      <link>https://laurinehu.github.io/others/phdday/</link>
+      <pubDate>Mon, 28 Oct 2019 22:53:43 +0100</pubDate>
+      
+      <guid>https://laurinehu.github.io/others/phdday/</guid>
+      <description>I&amp;rsquo;m happy to co-organize the PhD Student day of the Natural Language Processing and Knowledge Discovery Department of our laboratory. This day will be the opportunity for all students to present their work.
+https://www.loria.fr/en/research/departments/natural-language-processing-and-knowledge-discovery/</description>
     </item>
     
   </channel>

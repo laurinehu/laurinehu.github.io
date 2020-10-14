@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lstm on Laurine Huber</title>
+    <link>https://laurinehu.github.io/tags/lstm/</link>
+    <description>Recent content in lstm on Laurine Huber</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2020 11:26:27 +1100</lastBuildDate>
+    
+	<atom:link href="https://laurinehu.github.io/tags/lstm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Alignment Cost-Based Classification of Log Traces Using Machine-Learning</title>
+      <link>https://laurinehu.github.io/publications/ml4pm/</link>
+      <pubDate>Fri, 02 Oct 2020 11:26:27 +1100</pubDate>
+      
+      <guid>https://laurinehu.github.io/publications/ml4pm/</guid>
+      <description>Conformance checking is an important aspect of process mining that identifies the differences between the behaviors recorded in a log and those exhibited by an associated process model. Machine learning and deep learning methods perform extremely well in sequence analysis. We successfully apply both a Recurrent Neural Network and a Random Forest classifier to the problem of evaluating whether the alignment cost of a log trace to a process model is below an arbitrary threshold, and provide a lower bound for the fitness of the process model based on the classification.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,19 +6,57 @@
     <description>Recent content on Laurine Huber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Oct 2019 22:53:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2020 22:53:43 +0100</lastBuildDate>
     
 	<atom:link href="https://laurinehu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>I&#39;m happy to be Co-Chair of RECITAL 2020 !</title>
-      <link>https://laurinehu.github.io/others/my-first-post/</link>
+      <title>MALOTEC Seminars</title>
+      <link>https://laurinehu.github.io/others/malotec/</link>
+      <pubDate>Thu, 08 Oct 2020 22:53:43 +0100</pubDate>
+      
+      <guid>https://laurinehu.github.io/others/malotec/</guid>
+      <description>I was happy to present several works in the context of our regular team meetings.
+https://malotec.loria.fr/</description>
+    </item>
+    
+    <item>
+      <title>An Alignment Cost-Based Classification of Log Traces Using Machine-Learning</title>
+      <link>https://laurinehu.github.io/publications/ml4pm/</link>
+      <pubDate>Fri, 02 Oct 2020 11:26:27 +1100</pubDate>
+      
+      <guid>https://laurinehu.github.io/publications/ml4pm/</guid>
+      <description>Conformance checking is an important aspect of process mining that identifies the differences between the behaviors recorded in a log and those exhibited by an associated process model. Machine learning and deep learning methods perform extremely well in sequence analysis. We successfully apply both a Recurrent Neural Network and a Random Forest classifier to the problem of evaluating whether the alignment cost of a log trace to a process model is below an arbitrary threshold, and provide a lower bound for the fitness of the process model based on the classification.</description>
+    </item>
+    
+    <item>
+      <title>Do Sentence Embeddings Capture Discourse Properties of Sentences from Scientific Abstracts</title>
+      <link>https://laurinehu.github.io/publications/codi/</link>
+      <pubDate>Fri, 02 Oct 2020 11:26:27 +1100</pubDate>
+      
+      <guid>https://laurinehu.github.io/publications/codi/</guid>
+      <description>We introduce four tasks designed to determine which sentence encoders best capture discourse properties of sentences from scientific abstracts, namely coherence between clauses of a sentence, and discourse relations within sentences. We show that even if contextual encoders such as BERT or SciBERT encodes the coherence in discourse units, they do not help to predict three discourse relations commonly used in scientific abstracts. We discuss what these results underline, namely that these discourse relations are based on particular phrasing that allow non-contextual encoders to perform well.</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m Co-Chair of RECITAL 2020 !</title>
+      <link>https://laurinehu.github.io/others/recital/</link>
       <pubDate>Mon, 28 Oct 2019 22:53:43 +0100</pubDate>
       
-      <guid>https://laurinehu.github.io/others/my-first-post/</guid>
+      <guid>https://laurinehu.github.io/others/recital/</guid>
       <description>I&amp;rsquo;m happy to be part of the organizing comitee of RECITAL, co-located (virtually) with JEP and TALN 2020. The conference JEP-TALN-RECITAL 2020 will be held online from 8 to 19 June.
 https://jep-taln2020.loria.fr/</description>
+    </item>
+    
+    <item>
+      <title>PhD student day of the NLPKD department</title>
+      <link>https://laurinehu.github.io/others/phdday/</link>
+      <pubDate>Mon, 28 Oct 2019 22:53:43 +0100</pubDate>
+      
+      <guid>https://laurinehu.github.io/others/phdday/</guid>
+      <description>I&amp;rsquo;m happy to co-organize the PhD Student day of the Natural Language Processing and Knowledge Discovery Department of our laboratory. This day will be the opportunity for all students to present their work.
+https://www.loria.fr/en/research/departments/natural-language-processing-and-knowledge-discovery/</description>
     </item>
     
     <item>
